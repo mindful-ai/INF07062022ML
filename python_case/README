@@ -1,0 +1,4 @@
+1. Fix the missing rank issue
+2. Write the report to a file: complete the write2file()
+3. How to reduce the complexity of rank calculation
+4. Display the report in the sorted order
